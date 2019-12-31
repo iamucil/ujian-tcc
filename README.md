@@ -1,0 +1,15 @@
+# Teknik Cloud Computing
+
+1. [Praktikum minggu-01: Instalasi Git pada Sistem Operasi Windows dan Konfigurasi GIT](/iamucil/tcc/blob/master/minggu-01/README.md)
+2. [Praktikum Minggu-02: Mengelola Repo](/iamucil/tcc/blob/master/minggu-02/README.md)
+3. [Praktikum Minggu-03: SaaS](/iamucil/tcc/blob/master/minggu-03/README.md)
+4. [Praktikum Minggu-04: BPaaS](/iamucil/tcc/blob/master/minggu-04/README.md)
+5. [Praktikum Minggu-05: CockroachDB](/iamucil/tcc/blob/master/minggu-05/README.md)
+6. [Praktikum Minggu-06: Docker](/iamucil/tcc/blob/master/minggu-06/README.md)
+7. [Praktikum Minggu-07: PaaS Provider - Google App Engine](/iamucil/tcc/blob/master/minggu-07/README.md)
+8. [Praktikum Minggu-08: Docker image](/iamucil/tcc/blob/master/minggu-08/README.md)
+9. [Praktikum Minggu-09: Docker image - Lanjut](/iamucil/tcc/blob/master/minggu-09/README.md)
+10. [Praktikum Minggu-10: Kolaborasi dengan GIT](/iamucil/tcc/blob/master/minggu-10/README.md)
+11. [Praktikum Minggu-11: IaaS](/iamucil/tcc/blob/master/minggu-11/README.md)
+12. [Praktikum Minggu-12: Docker compose](/iamucil/tcc/blob/master/minggu-12/README.md)
+13. [Praktikum Minggu-13: Docker swarm mode](/iamucil/tcc/blob/master/minggu-13/README.md)
